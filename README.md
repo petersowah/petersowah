@@ -123,7 +123,7 @@ Software Developer
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
         </picture>
     </a>
-    <a href="http://www.medium.com/petersowah" target="_blank" rel="noreferrer">
+    <a href="https://www.medium.com/petersowah" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
@@ -143,11 +143,11 @@ Software Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/petersowah">
+<a href="https://www.github.com/petersowah">
     <img src="https://github-readme-stats.vercel.app/api?username=petersowah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="petersowah's GitHub stats" />
 </a>
 
-<a href="http://www.github.com/petersowah">
+<a href="https://www.github.com/petersowah">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=petersowah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
@@ -155,10 +155,10 @@ Software Developer
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-    <a href="https://github.com/petersowah/petersowah/laravel-cashier-revenue-cat" align="left">
+    <a href="https://github.com/petersowah/laravel-cashier-revenue-cat" align="left">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=petersowah&repo=petersowah/laravel-cashier-revenue-cat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-    <a href="https://github.com/petersowah/petersowah/factory-dumps" align="right">
+    <a href="https://github.com/petersowah/factory-dumps" align="right">
         <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=petersowah&repo=petersowah/factory-dumps&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
