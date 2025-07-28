@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 *   🌍  I'm based in Ghana
-*   ✉️  You can contact me at [petersowah@gmail.com](mailto:petersowah@gmail.com)
+*   ✉️  You can contact me at [Email](mailto:petersowah@gmail.com)
 
 <a href="https://www.github.com/petersowah" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/github/followers/petersowah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
